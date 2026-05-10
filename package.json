@@ -1,0 +1,15 @@
+{
+  "name": "ilyas-faouzi-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio of Ilyas Faouzi — built with Eleventy",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve",
+    "dev": "eleventy --serve --port=3000"
+  },
+  "author": "Ilyas Faouzi",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.5"
+  }
+}
